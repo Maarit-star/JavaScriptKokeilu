@@ -1,0 +1,1 @@
+Tiedostoja gitin harjoittelua varten
